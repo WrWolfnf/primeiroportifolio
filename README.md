@@ -5,7 +5,7 @@ Meu Primeiro Portifolio na plataforma PowerBI
 | -------------  | --- |
 | :sparkles: Nome        | **Analise de Vendas e Produtos**
 | :label: Tecnologias | Power BI
-| :rocket: URL         | https://github.com/WrWolfnf
+| :rocket: URL         | https://github.com/WrWolfnf/primeiroportifolio
 | :fire: Desafio     |
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
